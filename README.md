@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yumnarefai
-- 👀 I’m interested in rescuing people from their boredom through the innovation of better entertained products. [netflix + spotify you're pardoned:)] 
-- 🌱 I’m currently learning Java as well as making a Java project with my group at UofT! 
+- 👀 I’m interested in developing innovative products that serve the wellness of the people and environment.  
+- 🌱 I’m currently learning Java in my second year of university.
 - 💞️ I’m looking to collaborate with UofT CS community  on beginner Java based projects and then progress to more complex ones!
 - 📫 How to reach me? Send me a message on instagram yumna.refai_xoxo and we can communicate. 
 - Happy coding, everyone!
