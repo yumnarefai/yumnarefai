@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yumnarefai
 - 👀 I’m interested in developing innovative products that serve the wellness of the people and environment.  
 - 🌱 I’m currently learning Java in my second year of university.
-- 💞️ I’m looking to collaborate with UofT CS community  on beginner Java based projects and then progress to more complex ones!
+- 💞️ Currently doing a Project:Moodical with my peers and I love it! ;)
 - Happy coding, everyone!
 
 <!---
