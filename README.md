@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yumnarefai
-- 👀 I’m interested in developing innovative products that serve the wellness of the people and environment.  
+- 👀 I strive to develop innovative products and services that serve the wellness of the people and environment.  
 - 💞️ Recently completed Project Moodical and Breakout!
 - Happy coding, everyone!
 
